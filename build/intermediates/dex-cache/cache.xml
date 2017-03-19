@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/alejandroloragomez/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/alejandroloragomez/AndroidStudioProjects/AndroidCurso/HttpRequest/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_48a4cc734710aa827da4fe2f112dfc0230f269c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alejandroloragomez/AndroidStudioProjects/AndroidCurso/HttpRequest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/alejandroloragomez/AndroidStudioProjects/AndroidCurso/HttpRequest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_09766767145686ac2c9774f7ce02f66c48cc2be6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alejandroloragomez/AndroidStudioProjects/AndroidCurso/HttpRequest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92b64728aa791c0a1916b5441e07438b2755a2ae">
+        <dex dex="/Users/alejandroloragomez/AndroidStudioProjects/AndroidCurso/HttpRequest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2bf520f19323999b2bd8fbdeb612176ead5df0f7/classes.dex" />
+    </item>
+
+</items>
